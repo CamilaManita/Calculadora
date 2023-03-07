@@ -112,16 +112,16 @@ button#equal {
 }
 
 .calculator button#clear {
-    background-color: #ffd5d8;
+    background-color: #a8e6ce;
 }
 
 .calculator button.btn-number {
-    background-color: #ffd0fb;
-    color: #f967f3;
+    background-color: #ff8c94;
+    color: #ffd3b5;
 }
 
 .calculator button.btn-equal {
-    background-color: #adf9e7;
+    background-color: #ffaaa6;
     color: #000;
 }
 
